@@ -1,0 +1,17 @@
+{
+  "name": "gulp-starter-kit",
+  "version": "1.0.0",
+  "description": "Gulp starter kit",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Juan",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
