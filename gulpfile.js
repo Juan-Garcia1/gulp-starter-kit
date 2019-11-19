@@ -35,3 +35,4 @@ function serve() {
 
 exports.scss = scss;
 exports.serve = serve;
+exports.default = exports.serve;
